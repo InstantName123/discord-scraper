@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating/fixing bugs since 2021<br>📚 I'm currently learning Python & JS<br>🎯 Goals: make some useless projects more useful.<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating/fixing bugs since 2021<br>📚 I'm currently learning Python<br>🎯 Goals: make some useless projects more useful.<br>🎲 Fun fact: ...</p>
 
 ###
 
@@ -19,10 +19,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
