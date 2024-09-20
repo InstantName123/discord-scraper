@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is InstantName and I'm a Python developer from Chechnya</p>
+<p align="left">My name is InstantName and this is a discord message scraper (bot)</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating/fixing bugs since 2021<br>📚 I'm currently learning Python<br>🎯 Goals: make some useless projects more useful.<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating/fixing bugs since 2020<br>📚 Still learning new things in Python every day.<br>🎯 Goals: make some useless projects more useful.<br></p>
 
 ###
 
